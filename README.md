@@ -1,5 +1,9 @@
 # README
 
+## Team
+- Omer (omerzshahar@gmail.com)
+- Matan (Matanbrimer1@gmail.com) 
+
 ## תוכן העניינים
 1. [שאלה 1 — רעיון משחק: אילוף/התמודדות עם כלבים](#שאלה-1)
 2. [שאלה 2 — משחקי תנועה פשוטים](#שאלה-2)
